@@ -1,3 +1,4 @@
+[README.md](https://github.com/chaitanya392/Online-Voting-System-main/files/11592592/README.md)
 Online-Voting-System
 We will be establishing a connection between the client and server to facilitate the electronic voting process Steps to run the application -Open PHPmyadmin -Create a database as vote-system -Import the SQL file in the repo and execute it which creates the DB schema -install XAMPP -copy the voting management system folder and place it in the HTDOCS folder(c/xampp/htdocs) -In order to run the website on the local network, please follow the following steps
 
